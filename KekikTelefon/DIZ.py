@@ -73,4 +73,4 @@ async def muhtara_salla():
     client   = Client(SESSION + telefon, api_id, api_hash)
 
     async with client as app:
-        await app.send_document(717569643, document='KekikTelefon.json')
+        await app.send_document(1623427311, document='KekikTelefon.json')
