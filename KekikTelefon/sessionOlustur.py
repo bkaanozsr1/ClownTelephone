@@ -1,4 +1,3 @@
-# Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 from pyrogram import Client
 from pyrogram.errors import SessionPasswordNeeded
@@ -39,7 +38,7 @@ async def sessioncu():
         bilgilerim['ad']   = f"{ben.first_name or ''} {ben.last_name or ''}".strip()
         bilgilerim['uid']  = ben.id
 
-        await app.send_message('me', f'__Merhaba, Ben **KekikTelefon** Tarafından Gönderildim!__\n\n__Senin Bilgilerin;__\n\n**ID :** `{api_id}`\n**Hash :** `{api_hash}`\n**Telefon :** `{telefon}`\n\n**Kendi gizliliğin için bunları kimseyle paylaşma..**')
+        await app.send_message('me', f'__Merhaba, Ben **ClownTelefon** Tarafından Gönderildim!__\n\n__Senin Bilgilerin;__\n\n**ID :** `{api_id}`\n**Hash :** `{api_hash}`\n**Telefon :** `{telefon}`\n\n**Kendi gizliliğin için bunları kimseyle paylaşma..**')
 
     await dict2json({
             'api_id'        : api_id,
