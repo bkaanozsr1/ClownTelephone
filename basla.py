@@ -1,4 +1,3 @@
-# Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 import asyncio
 from KekikTelefon import konsol, taban, sessioncu, ayiklayici
