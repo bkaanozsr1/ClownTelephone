@@ -6,9 +6,9 @@ from KekikTelefon.DIZ import ayiklayici
 from KekikTaban import KekikTaban
 
 taban = KekikTaban(
-    baslik   = "@KekikAkademi TelefonScript",
-    aciklama = "KekikTelefon Başlatıldı..",
-    banner   = "KekikTelefon",
+    baslik   = "Clown TelefonScript",
+    aciklama = "ClownTelefon Başlatıldı..",
+    banner   = "CLOWN",
     girinti  = 3
 )
 
