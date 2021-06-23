@@ -1,4 +1,3 @@
-# Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
 from pyrogram import Client
 from pyrogram.errors import PeerIdInvalid, ChannelPrivate
